@@ -1,0 +1,4 @@
+.env 
+llm/ .env 
+llm/ 
+__pycache__/ 
