@@ -15,7 +15,7 @@ GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
 # Initialize the model
 model = ChatGoogleGenerativeAI(
-    model='gemini-2.5-pro',
+    model='gemini-2.5-flash',
     google_api_key=GOOGLE_API_KEY,
     temperature=0.2
 )
@@ -55,7 +55,7 @@ combine_chain = RunnableLambda(
 full_chain = review_chain | (lambda review: {'text': review}) | parallel_chain | combine_chain
 
 # Run the chain with a topic
-# result = full_chain.invoke({'topic': 'Atomization of Molecule'})
-# print(result)
+result = full_chain.invoke({'topic': 'Atomization of Molecule'})
+print(result)
 
 full_chain.get_graph().print_ascii()

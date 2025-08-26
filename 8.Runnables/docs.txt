@@ -1,0 +1,143 @@
+The Mahābhārata is a smriti text (also described as a Sanskrit epic) from ancient India, one of the two important epics of Hinduism known as the Itihasas, the other being the Ramayana. It narrates the events and aftermath of the Kurukshetra War, a war of succession between two groups of princely cousins, the Kauravas and the Pāṇḍavas. It contains philosophical and devotional material, such as a discussion of the four "goals of life" or puruṣārtha (12.161). Among the principal works and stories in the Mahābhārata are the Bhagavad Gita, the story of Damayanti, the story of Shakuntala, the story of Pururava and Urvashi, the story of Savitri and Satyavan, the story of Kacha and Devayani, the story of Rishyasringa and an abbreviated version of the Rāmāyaṇa, often considered as works in their own right.
+
+Traditionally, the authorship of the Mahābhārata is attributed to Vyāsa. There have been many attempts to unravel its historical growth and compositional layers. The bulk of the Mahābhārata was probably compiled between the 3rd century BCE and the 3rd century CE, with the oldest preserved parts not much older than around 400 BCE. The text probably reached its final form by the early Gupta period (c. 4th century CE).
+
+The title is translated as "Great Bharat (India)", or "the story of the great descendants of Bharata", or as "The Great Indian Tale". The Mahābhārata is the longest epic poem known and has been described as "the longest poem ever written". Its longest version consists of over 100,000 shlokas (verses) or over 200,000 individual lines (each shloka is a couplet), and long prose passages. At about 1.8 million words in total, the Mahābhārata is roughly ten times the length of the Iliad and the Odyssey combined, or about four times the length of the Rāmāyaṇa. Within the Indian tradition it is sometimes called the fifth Veda.
+
+Textual history and structure
+The epic is traditionally ascribed to the sage Vyasa, who is also a major figure in the epic. Vyasa described it as being an itihasa (transl. history). He also describes the Guru–shishya tradition, which traces all great teachers and their students of the Vedic times.
+
+The first section of the Mahābhārata states that it was Ganesha who wrote down the text to Vyasa's dictation, but this is regarded by scholars as a later interpolation to the epic and the "Critical Edition" does not include Ganesha.
+
+The epic employs the story within a story structure, otherwise known as frametales, popular in many Indian religious and non-religious works. It is first recited at Takshashila by the sage Vaisampayana, a disciple of Vyasa, to the King Janamejaya who was the great-grandson of the Pandava prince Arjuna. The story is then recited again by a professional storyteller named Ugrashrava Sauti, many years later, to an assemblage of sages performing the 12-year sacrifice for the king Saunaka Kulapati in the Naimisha Forest.
+
+The text was described by some early 20th-century Indologists as unstructured and chaotic. Hermann Oldenberg supposed that the original poem must once have carried an immense "tragic force" but dismissed the full text as a "horrible chaos." Moritz Winternitz (Geschichte der indischen Literatur 1909) considered that "only unpoetical theologists and clumsy scribes" could have lumped the parts of disparate origin into an unordered whole.
+
+Accretion and redaction
+Research on the Mahābhārata has put an enormous effort into recognizing and dating layers within the text. Some elements of the present Mahabharata can be traced back to Vedic times. The background to the Mahābhārata suggests the origin of the epic occurs "after the very early Vedic period" and before "the first Indian 'empire' was to rise in the third century B.C." That this is "a date not too far removed from the 8th or 9th century B.C." is likely. The Mahabharata started as an orally-transmitted tale of the charioteer bards. It is generally agreed that "Unlike the Vedas, which have to be preserved letter-perfect, the epic was a popular work whose reciters would inevitably conform to changes in language and style," so the earliest 'surviving' components of this dynamic text are believed to be no older than the earliest 'external' references we have to the epic, which include a reference in Panini's 4th century BCE grammar Ashtadhyayi 4:2:56. Vishnu Sukthankar, editor of the first great critical edition of the Mahābhārata, commented: "It is useless to think of reconstructing a fluid text in an original shape, based on an archetype and a stemma codicum. What then is possible? Our objective can only be to reconstruct the oldest form of the text which it is possible to reach based on the manuscript material available." That manuscript evidence is somewhat late, given its material composition and the climate of India, but it is very extensive.
+
+The Mahābhārata itself (1.1.61) distinguishes a core portion of 24,000 verses: the Bhārata proper, as opposed to additional secondary material, while the Ashvalayana Grihyasutra (3.4.4) makes a similar distinction. At least three redactions of the text are commonly recognized: Jaya (Victory) with 8,800 verses attributed to Vyasa, the Bharata with 24,000 verses as recited by Vaisampayana, and finally the Mahābhārata as recited by Ugrashrava Sauti with over 100,000 verses. However, some scholars, such as John Brockington, argue that Jaya and Bharata refer to the same text, and ascribe the theory of Jaya with 8,800 verses to a misreading of a verse in the Adi Parva (1.1.81). The redaction of this large body of text was carried out after formal principles, emphasizing the numbers 18 and 12. The addition of the latest parts may be dated by the absence of the Anushasana Parva and the Virata Parva from the "Spitzer manuscript". The oldest surviving Sanskrit text dates to the Kushan Period (200 CE).
+
+According to what one figure says at Mbh. 1.1.50, there were three versions of the epic, beginning with Manu (1.1.27), Astika (1.3, sub-Parva 5), or Vasu (1.57), respectively. These versions would correspond to the addition of one and then another 'frame' settings of dialogues. The Vasu version would omit the frame settings and begin with the account of the birth of Vyasa. The astika version would add the sarpasattra and ashvamedha material from Brahmanical literature, introduce the name Mahābhārata, and identify Vyasa as the work's author. The redactors of these additions were probably Pancharatrin scholars who according to Oberlies (1998) likely retained control over the text until its final redaction. Mention of the Huna in the Bhishma Parva however appears to imply that this Parva may have been edited around the 4th century.
+
+The Adi Parva includes the snake sacrifice (sarpasattra) of Janamejaya, explaining its motivation, detailing why all snakes in existence were intended to be destroyed, and why despite this, there are still snakes in existence. This sarpasattra material was often considered an independent tale added to a version of the Mahābhārata by "thematic attraction" (Minkowski 1991), and considered to have a particularly close connection to Vedic (Brahmana) literature. The Panchavimsha Brahmana (at 25.15.3) enumerates the officiant priests of a sarpasattra among whom the names Dhritarashtra and Janamejaya, two main figures of the Mahābhārata's sarpasattra, as well as Takshaka, a snake in the Mahābhārata, occur.
+
+The Suparnakhyana, a late Vedic period poem considered to be among the "earliest traces of epic poetry in India," is an older, shorter precursor to the expanded legend of Garuda that is included in the Astika Parva, within the Adi Parva of the Mahābhārata.
+
+Historical references
+The earliest known references to bhārata and the compound mahābhārata date to the Ashtadhyayi (sutra 6.2.38) of Panini (fl. 4th century BCE) and the Ashvalayana Grihyasutra (3.4.4). This may mean that the core 24,000 verses, known as the Bhārata, as well as an early version of the extended Mahābhārata, were composed by the 4th century BCE. However, it is uncertain whether Panini referred to the epic, as bhārata was also used to describe other things. Albrecht Weber mentions the Rigvedic tribe of the Bharatas, where a great person might have been designated as Mahā-Bhārata. However, as Panini also mentions figures that play a role in the Mahābhārata, some parts of the epic may have already been known in his day. Another aspect is that Panini determined the accent of mahā-bhārata. However, the Mahābhārata was not recited in Vedic accent.
+
+The Greek writer Dio Chrysostom (c. 40 – c. 120 CE) reported that Homer's poetry was being sung even in India. Many scholars have taken this as evidence for the existence of a Māhabhārata at this date, whose episodes Dio or his sources identify with the story of the Iliad.
+
+Several stories within the Mahābhārata took on separate identities of their own in Classical Sanskrit literature. For instance, the Abhijnanashakuntala by the Sanskrit poet Kalidasa (c. 400 CE), believed to have lived in the era of the Gupta dynasty, is based on a story that is the precursor to the Mahābhārata. The Urubhanga, a Sanskrit play written by Bhasa who is believed to have lived before Kalidasa, is based on the slaying of Duryodhana by the splitting of his thighs by Bhima.
+
+The copper-plate inscription of the Maharaja Sharvanatha (533–534 CE) from Khoh (Satna District, Madhya Pradesh) describes the Mahābhārata as a "collection of 100,000 verses" (śata-sahasri saṃhitā).
+
+The 18 parvas or books
+The division into 18 parvas is as follows:
+
+Adi Parva (The Book of the Beginning): How the Mahābhārata came to be narrated. The history and genealogy of the Bharata and Bhrigu races, and the birth and early life of the Kuru princes.
+
+Sabha Parva (The Book of the Assembly Hall): Maya Danava erects the palace and court at Indraprastha. Life at the court, the Rajasuya Yajna of Yudhisthira, the dice game, and the humiliation of the Pandavas.
+
+Vana Parva (The Book of the Forest): The twelve years of exile in the forest (aranya).
+
+Virata Parva (The Book of Virata): The year spent incognito at the court of Virata.
+
+Udyoga Parva (The Book of the Effort): Preparations for war and efforts to bring about peace which fail.
+
+Bhishma Parva (The Book of Bhishma): The first part of the great battle, with Bhishma as commander for the Kauravas and his fall. Includes the Bhagavad Gita.
+
+Drona Parva (The Book of Drona): The battle continues, with Drona as commander. Most of the great warriors are dead by the end of this book.
+
+Karna Parva (The Book of Karna): The continuation of the battle with Karna as commander.
+
+Shalya Parva (The Book of Shalya): The last day of the battle, with Shalya as commander. Includes the mace fight between Bhima and Duryodhana which ends the war.
+
+Sauptika Parva (The Book of the Sleeping Warriors): Ashwatthama, Kripa and Kritavarma kill the remaining Pandava army in their sleep.
+
+Stri Parva (The Book of the Women): Gandhari and the other women lament the dead. Gandhari curses Krishna.
+
+Shanti Parva (The Book of Peace): The crowning of Yudhishthira as king of Hastinapura, and instructions from Bhishma on society, economics, and politics. This is the longest book.
+
+Anushasana Parva (The Book of the Instructions): The final instructions from Bhishma.
+
+Ashvamedhika Parva (The Book of the Horse Sacrifice): The royal ceremony of the Ashvamedha conducted by Yudhishthira.
+
+Ashramavasika Parva (The Book of the Hermitage): The deaths of Dhritarashtra, Gandhari, and Kunti in a forest fire.
+
+Mausala Parva (The Book of the Clubs): The infighting between the Yadavas with maces and the destruction of the Yadavas.
+
+Mahaprasthanika Parva (The Book of the Great Journey): The great journey of Yudhishthira and his brothers across the country and their ascent of the Himalayas.
+
+Svargarohana Parva (The Book of the Ascent to Heaven): Yudhishthira's final test and the return of the Pandavas to the spiritual world (svarga).
+
+khila. Harivamsa Parva (The Book of the Genealogy of Hari): An addendum covering parts of the life of Krishna not in the 18 parvas.
+
+Synopsis
+The core story is that of a dynastic struggle for the throne of Hastinapura between two collateral branches of the Kuru clan: the Kauravas and the Pandavas. The struggle culminates in the Kurukshetra War, in which the Pandavas are victorious. The epic ends with the death of Krishna and the ascent of the Pandava brothers to heaven, marking the beginning of the Kali Yuga.
+
+The older generations
+
+King Shantanu of Hastinapura marries the goddess Ganga and has a son, Devavrata (later Bhishma). Years later, Shantanu falls for Satyavati. Her father agrees to the marriage only if Satyavati's future son becomes king. To enable this, Devavrata relinquishes his right to the throne and takes a vow of lifelong celibacy. Shantanu and Satyavati have two sons, Chitrangada and Vichitravirya. After Chitrangada dies, Vichitravirya rules but also dies young and heirless. To continue the line, Satyavati asks her first son, Vyasa (born from a previous union), to father children with Vichitravirya's widows, Ambika and Ambalika. Dhritarashtra is born blind to Ambika, and Pandu is born pale to Ambalika. A third son, Vidura, is born to a maid.
+
+The Pandava and Kaurava princes
+
+Because Dhritarashtra is blind, Pandu becomes king. Pandu marries Kunti and Madri. Cursed to die if he engages in sexual acts, Pandu retires to the forest. Queen Kunti uses a boon to have three sons by different gods: Yudhishthira, Bhima, and Arjuna. She shares the boon with Madri, who has twins, Nakula and Sahadeva. These five are the Pandava brothers. Dhritarashtra marries Gandhari and has one hundred sons, the Kauravas, led by Duryodhana. The rivalry between the Pandavas and Kauravas begins in their youth.
+
+Lakshagraha (the house of lac)
+
+Duryodhana plots to kill the Pandavas by having them stay in a palace built of flammable lac. Warned by their uncle Vidura, the Pandavas escape through a tunnel and go into hiding.
+
+Marriage to Draupadi
+
+In hiding, Arjuna wins the hand of Princess Draupadī in a swayamvara (a contest for marriage). Due to a misunderstanding by their mother, Kunti, Draupadi becomes the common wife of all five Pandava brothers.
+
+Indraprastha
+
+After the wedding, the kingdom is divided. The Pandavas build a magnificent capital, Indraprastha. Duryodhana, visiting their palace, is humiliated when he mistakes a polished floor for water and falls into a pond. Enraged and jealous, he plots revenge.
+
+The dice game
+
+At Duryodhana's invitation, Yudhishthira plays a game of dice against Duryodhana's uncle, Shakuni, who uses loaded dice. Yudhishthira loses everything: his kingdom, wealth, his brothers, and finally his wife, Draupadi. The Kauravas attempt to disrobe Draupadi in court, but she is saved by the divine intervention of Krishna. As a result of a second dice game, the Pandavas are exiled for 12 years, with a 13th year to be spent in hiding. If discovered during the 13th year, they must repeat the exile.
+
+Exile and return
+
+The Pandavas spend their 13 years in exile. At the end of the term, they attempt to negotiate for the return of their kingdom. Duryodhana refuses, making war inevitable.
+
+The battle at Kurukshetra
+
+Both sides gather vast armies at Kurukshetra. Before the battle, Arjuna is overcome with doubt about fighting his own kin. Krishna, acting as his charioteer, counsels him on his duty, a dialogue that forms the Bhagavad Gita. The battle rages for 18 days. Both sides resort to dishonorable tactics. In the end, only the Pandavas, Krishna, and a few others survive.
+
+The end of the Pandavas
+
+After the war, Gandhari, having lost all her sons, curses Krishna that his family, the Yadavas, will also be destroyed. The curse comes true 36 years later. The Pandavas rule Hastinapur but eventually renounce their kingdom. They journey to the Himalayas, seeking to ascend to heaven. All but Yudhishthira fall along the way, due to their respective flaws. Yudhishthira, for his virtue, reaches heaven. Arjuna's grandson, Parikshit, rules after them. The tale is narrated to Parikshit's son, Janamejaya, during a snake sacrifice he performs.
+
+Themes
+Just war
+
+The Mahābhārata offers an early theorization of dharmayuddha, or "just war". It establishes criteria like proportionality, just means, just cause, and fair treatment of captives and the wounded.
+
+Translations, versions and derivative works
+Translations
+
+The first complete English translation was by Kisari Mohan Ganguli (1883–1896). Other notable translations include a condensed verse version by Romesh Chunder Dutt, a "transcreation" by P. Lal, and recent unabridged translations by Bibek Debroy and a team of scholars from the University of Chicago Press.
+
+Critical Edition
+
+Between 1919 and 1966, scholars at the Bhandarkar Oriental Research Institute in Pune produced a Critical Edition of the epic by comparing numerous manuscripts. This 19-volume text is the standard scholarly reference.
+
+Regional versions
+
+Many regional versions exist, such as the Tamil terukkuttu street theatre and the Javanese Kakawin Bhāratayuddha, which developed in the 11th century and is a source for Javanese wayang puppet performances.
+
+Derivative literature
+
+The epic has inspired countless works, including plays like Bhasa's Urubhanga and Dharamvir Bharati's Andha Yug, and novels like V. S. Khandekar's Yayati and Chitra Banerjee Divakaruni's The Palace of Illusions.
+
+In film and television
+
+Numerous film versions have been made since 1920. B. R. Chopra's 1988 television series Mahabharat became a cultural phenomenon in India. Peter Brook's nine-hour play (1985) and its film adaptation brought the story to Western audiences. Another popular TV series aired on STAR Plus in 2013.
+
+Jain version
+Jain texts like the Harivamsapurana offer a different version of the story. In the Jain narrative, Krishna and Balarama are cousins of the 22nd Tirthankara, Neminatha. The main conflict is between Krishna and Jarasandha. Ultimately, the Pandavas and Balarama become Jain monks and attain heaven, while Krishna is reborn in hell due to his karma, though he is prophesied to eventually be reborn as a Tirthankara and achieve liberation.
